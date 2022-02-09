@@ -1,5 +1,5 @@
 # Table of contents
 
 * [beso](README.md)
-* [soika](soik.md)
+* [soika](soik.html)
 * [Spring Boot Reference Documentation](spring-boot-reference-documentation.md)
