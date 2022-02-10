@@ -1,5 +1,8 @@
 # Table of contents
 
-* [beso](README.md)
-* [soika](soik.html)
-* [Spring Boot Reference Documentation](spring-boot-reference-documentation.md)
+* [Welcome!](README.md)
+* [Quick Start](quick-start.md)
+
+## Reference
+
+* [API Reference](reference/api-reference.md)
