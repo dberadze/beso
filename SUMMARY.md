@@ -6,3 +6,7 @@
 ## Reference
 
 * [API Reference](reference/api-reference.md)
+
+***
+
+* [Spring Boot Reference Documentation](spring-boot-reference-documentation.md)
