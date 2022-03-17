@@ -4,6 +4,16 @@
 
 Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
+```
+// Some code
+```
+
+{% swagger method="get" path="" baseUrl="" summary="dsadas" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
+
 ## Want to jump right in?
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
