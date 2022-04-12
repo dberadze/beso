@@ -2,7 +2,7 @@
 
 ***
 
-| [clear\_count1](broken-reference)                      | Procedure to clear massive of the cash documents                                              |
+| [clear\_count2](broken-reference)                      | Procedure to clear massive of the cash documents                                              |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [add\_object](broken-reference)                       | Procedure to add to the massive of the cash documents new cash document                       |
 | [set\_trig\_on](broken-reference)                     | Procedure to on(logical) tiggers on the cash documents                                        |
